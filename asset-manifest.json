@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/multiTenant/static/css/main.8fd3d7c0.css",
+    "main.js": "/multiTenant/static/js/main.745af4fa.js",
+    "index.html": "/multiTenant/index.html",
+    "main.8fd3d7c0.css.map": "/multiTenant/static/css/main.8fd3d7c0.css.map",
+    "main.745af4fa.js.map": "/multiTenant/static/js/main.745af4fa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8fd3d7c0.css",
+    "static/js/main.745af4fa.js"
+  ]
+}
